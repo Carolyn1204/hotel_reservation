@@ -1,0 +1,195 @@
+   [
+      {
+        "id": 1,
+        "city": "Montreal",
+        "roomType": "1 Queen Guest Room",
+        "roomNum": "101",
+        "capacity": "1",
+        "rate":"119"
+      },
+      {
+        "id": 2,
+        "city": "Montreal",
+        "roomType": "1 Queen Guest Room",
+        "roomNum": "102",
+        "capacity": "1",
+        "rate":"119"
+      },
+      {
+        "id": 3,
+        "city": "Montreal",
+        "roomType": "1 Queen Guest Room",
+        "roomNum": "103",
+        "capacity": "1",
+        "rate":"119"
+      },
+      {
+        "id": 4,
+        "city": "Montreal",
+        "roomType": "1 King Guest Room",
+        "roomNum": "104",
+        "capacity": "2",
+        "rate":"159"
+      },
+      {
+        "id": 5,
+        "city": "Montreal",
+        "roomType": "1 King Guest Room",
+        "roomNum": "105",
+        "capacity": "2",
+        "rate":"159"
+      },
+      {
+        "id": 6,
+        "city": "Montreal",
+        "roomType": "1 King Guest Room",
+        "roomNum": "106",
+        "capacity": "2",
+        "rate":"159"
+      },
+      {
+        "id": 7,
+        "city": "Montreal",
+        "roomType": "VIP Room",
+        "roomNum": "201",
+        "capacity": "4",
+        "rate":"259"
+      },
+      {
+        "id": 8,
+        "city": "Montreal",
+        "roomType": "VIP Room",
+        "roomNum": "202",
+        "capacity": "4",
+        "rate":"259"
+      },
+      {
+        "id": 9,
+        "city": "Montreal",
+        "roomType": "VIP Room",
+        "roomNum": "203",
+        "capacity": "4",
+        "rate":"259"
+      },
+      {
+        "id": 10,
+        "city": "Montreal",
+        "roomType": "Family Room",
+        "roomNum": "204",
+        "capacity": "6",
+        "rate":"299"
+      },
+      {
+        "id": 11,
+        "city": "Montreal",
+        "roomType": "Family Room",
+        "roomNum": "205",
+        "capacity": "6",
+        "rate":"299"
+      },
+      {
+        "id": 12,
+        "city": "Montreal",
+        "roomType": "Family Room",
+        "roomNum": "206",
+        "capacity": "6",
+        "rate":"299"
+      },
+      {
+        "id": 13,
+        "city": "Toronto",
+        "roomType": "1 Queen Guest Room",
+        "roomNum": "101",
+        "capacity": "1",
+        "rate":"119"
+      },
+      {
+        "id": 14,
+        "city": "Toronto",
+        "roomType": "1 Queen Guest Room",
+        "roomNum": "102",
+        "capacity": "1",
+        "rate":"119"
+      },
+      {
+        "id": 15,
+        "city": "Toronto",
+        "roomType": "1 Queen Guest Room",
+        "roomNum": "103",
+        "capacity": "1",
+        "rate":"119"
+      },
+      {
+        "id": 16,
+        "city": "Toronto",
+        "roomType": "1 King Guest Room",
+        "roomNum": "104",
+        "capacity": "2",
+        "rate":"159"
+      },
+      {
+        "id": 17,
+        "city": "Toronto",
+        "roomType": "1 King Guest Room",
+        "roomNum": "105",
+        "capacity": "2",
+        "rate":"159"
+      },
+      {
+        "id": 18,
+        "city": "Toronto",
+        "roomType": "1 King Guest Room",
+        "roomNum": "106",
+        "capacity": "2",
+        "rate":"159"
+      },
+      {
+        "id": 19,
+        "city": "Toronto",
+        "roomType": "VIP Room",
+        "roomNum": "201",
+        "capacity": "4",
+        "rate":"259"
+      },
+      {
+        "id": 20,
+        "city": "Toronto",
+        "roomType": "VIP Room",
+        "roomNum": "202",
+        "capacity": "4",
+        "rate":"259"
+      },
+      {
+        "id": 21,
+        "city": "Toronto",
+        "roomType": "VIP Room",
+        "roomNum": "203",
+        "capacity": "4",
+        "rate":"259"
+      },
+      {
+        "id": 22,
+        "city": "Toronto",
+        "roomType": "Family Room",
+        "roomNum": "204",
+        "capacity": "6",
+        "rate":"299"
+      },
+      {
+        "id": 23,
+        "city": "Toronto",
+        "roomType": "Family Room",
+        "roomNum": "205",
+        "capacity": "6",
+        "rate":"299"
+      },
+      {
+        "id": 24,
+        "city": "Toronto",
+        "roomType": "Family Room",
+        "roomNum": "206",
+        "capacity": "6",
+        "rate":"299"
+      }
+    ]
+  
